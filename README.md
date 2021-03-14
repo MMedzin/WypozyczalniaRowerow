@@ -1,4 +1,4 @@
-# Wypozyczalnia_Rowerow_ZBD
+# WypozyczalniaRowerow
 ## Maria Mikołajczak
 ## Michał Mędzin
 
