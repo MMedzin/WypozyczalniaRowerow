@@ -1,4 +1,4 @@
-# WypozyczalniaRowerow
+# Wypożyczalnia Rowerów
 
 Projekt wykonany przez:
 - Marię Mikołajczak
