@@ -1,8 +1,8 @@
 # WypozyczalniaRowerow
 
 Projekt wykonany przez:
-- Maria Mikołajczak
-- Michał Mędzin
+- Marię Mikołajczak
+- Michała Mędzina
 
 ### Opis aplikacji
 Aplikacja pomagająca w zarządzaniu wypożyczalnią rowerów. Pozwala na przechowywanie i administrację danymi rowerów, akcesoriów rowerowych, wypożyczeń, subskrybcji, klientów oraz pracowników wypożyczalni.
