@@ -1,11 +1,11 @@
-# Wypożyczalnia Rowerów
+# Bicycle rental
 
-Projekt wykonany przez:
-- Marię Mikołajczak
-- Michała Mędzina
+Project was developed by:
+- Maria Mikołajczak (https://github.com/marmiko)
+- Michał Mędzin
 
-### Opis aplikacji
-Aplikacja pomagająca w zarządzaniu wypożyczalnią rowerów. Pozwala na przechowywanie i administrację danymi rowerów, akcesoriów rowerowych, wypożyczeń, subskrybcji, klientów oraz pracowników wypożyczalni. Okienkowy interfejs aplikacji jest stworzony z wykorzystaniem ```JavaFX```.
+### Description
+Application is designed to manage a bicycle rental business. It provides data storage and management of bicycles, bicycle accessories, rentals, subscriptions, customers and employees of the rental. Application's GUI is created using ```JavaFX```.
 
-### Baza danych
-Aplikacja do działania wykorzystuje bazę danych ORACLE SQL. Skrypty konfiguracyjne bazy danych znajdują się w folderze ```skrypty tworzące bazę danych```. Dane do połączenia ze skonfigurowaną bazą danych należy umieścić w pliku ```src/main/resources/databaseInfo/databaseInfo.xml```, według zawartego w nim przykładowego schematu.
+### Database
+The application uses ORACLE SQL database. The database configuration scripts are located in the ```database-creation-scripts``` directory. Details about connection with the configured database should be placed in the file ```src / main / resources / databaseInfo / databaseInfo.xml```, according to the sample scheme present inside it.
